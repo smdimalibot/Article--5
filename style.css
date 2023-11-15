@@ -1,0 +1,29 @@
+body {
+    background-image: url(Background.webp);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color: cyan;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: cyan;
+}
+
+article {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 16px;
+}
+
+.website {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+}
